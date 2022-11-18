@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.titulo {
+    text-align: center;
+}
+
+header {
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(232, 195, 158);
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-size: 30px;
+}
+main {
+    padding-top: 10px;
+    text-align: justify;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 19px;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: brown;
+    font-size: 21px;
+}
